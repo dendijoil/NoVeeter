@@ -72,7 +72,7 @@ Screenshots use fake mixer data and show one strip of each kind (IN 1, VAIO, A1,
 
 - Windows 10/11 (Voicemeeter and the Remote API are Windows-only).
 - [Voicemeeter Potato](https://vb-audio.com/Voicemeeter/potato.htm) installed. NoVeeter launches it if it is not running.
-- For development: [Node.js](https://nodejs.org/) 20+, [Rust](https://rustup.rs/) (stable) and the [WebView2 runtime](https://developer.microsoft.com/microsoft-edge/webview2/) (already present on Windows 11).
+- For development: [Node.js](https://nodejs.org/) 22.6+, [Rust](https://rustup.rs/) (stable) and the [WebView2 runtime](https://developer.microsoft.com/microsoft-edge/webview2/) (already present on Windows 11).
 
 ## Getting started
 
